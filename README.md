@@ -4,7 +4,7 @@
 This repository contains the source code for a weather website that provides real-time weather information for various locations using HTML, CSS, JavaScript, and the OpenWeatherMap API.
 
 ## Features
-- Current weather conditions (temperature, humidity, wind speed, etc.)
+- Current weather conditions (temperature, sky conditions, wind speed, etc.)
 - Search functionality for cities worldwide
 - Responsive design for mobile and desktop users
 - Real-time data updates
@@ -23,7 +23,7 @@ To run this project, you'll need a modern web browser and an API key from [OpenW
 
 ## Usage
 - Enter a city name in the search bar to get the current weather.
-- View detailed weather information including temperature, humidity, wind speed, and more.
+- View detailed weather information including temperature, sky conditions, wind speed, and more.
 
 
 ## Acknowledgements
